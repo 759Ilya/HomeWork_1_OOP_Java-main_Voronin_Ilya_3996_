@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Seminar_1" />
+        <module name="HomeWork_1_OOP_Java-main_Voronin_Ilya_3996" />
+        <module name="Seminar_1_OOP_Java-main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
